@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T12:15:08.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="jkSQa5-as8-zSbtXLrBd" version="15.9.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-13T13:29:44.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_8R6xXQgaLQzUrD8dk_V" version="15.9.1" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1820,10 +1820,16 @@
           <mxGeometry x="340" y="20" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4eyMVlmDb4loMyrPS90-0" value="" style="swimlane;startSize=0;" vertex="1" parent="66Pc1skknOgsXSriVAOK-1">
-          <mxGeometry x="-240" y="120" width="1320" height="930" as="geometry" />
+          <mxGeometry x="-240" y="90" width="1320" height="960" as="geometry" />
         </mxCell>
         <mxCell id="d4eyMVlmDb4loMyrPS90-1" value="customer block" style="swimlane;" vertex="1" parent="d4eyMVlmDb4loMyrPS90-0">
           <mxGeometry x="20" y="20" width="710" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="d4eyMVlmDb4loMyrPS90-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="d4eyMVlmDb4loMyrPS90-1">
+          <mxGeometry x="20" y="40" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="d4eyMVlmDb4loMyrPS90-10" value="&amp;lt;Form&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;lt;Input /&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;lt;Button /&amp;gt;&lt;br&gt;&amp;lt;/Form&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d4eyMVlmDb4loMyrPS90-1">
+          <mxGeometry x="30" y="50" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d4eyMVlmDb4loMyrPS90-2" value="OrderBlock" style="swimlane;" vertex="1" parent="d4eyMVlmDb4loMyrPS90-0">
           <mxGeometry x="20" y="280" width="1260" height="610" as="geometry" />
